@@ -25,6 +25,9 @@ This project includes **Department, Transaction, and User Management**, making i
 ## 📌 Installation Guide
 
 ### 1️⃣ Clone Repository
-https://github.com/dewodewo31/school-payment-app.git
+
+git clone https://github.com/dewodewo31/school-payment-app.git
+
 cd school-payment-app
+
 =======
